@@ -23,7 +23,7 @@ function checkBlacklist(user) {
 
 //I sowwy Midi!!
  
-API.addEventListener(API.CHAT, getID);
+/*API.addEventListener(API.CHAT, getID);
 function getID(data)
 {
   var idCmdCheck=data.message.substr(0,4)
@@ -48,4 +48,4 @@ function getID(data)
     }
   }
 }
-*
+*/
